@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bank Account Manager</string>
+
+    <string name="confirm_string">Confirm</string>
+    <string name="exit_tittle_string">Do you want to Exit?</string>
+    <string name="ok_string">OK</string>
+    <string name="cancel_string">Cancel</string>
+    <string name="no">No</string>
+    <string name="no_internet">Please Connect To Internet</string>
+    <string name="wait_string">Loading</string>
+    <string name="something_went_wrong">Can Not Connect With Server</string>
+    <string name="admin_string">Contact With Admin</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
