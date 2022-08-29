@@ -4,9 +4,25 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/bg_drop_shadow.xml" value="0.101" />
+        <entry key="app/src/main/res/drawable/gradiant1.xml" value="0.101" />
+        <entry key="app/src/main/res/drawable/gradiant10.xml" value="0.101" />
+        <entry key="app/src/main/res/drawable/gradiant11.xml" value="0.101" />
+        <entry key="app/src/main/res/drawable/gradiant12.xml" value="0.101" />
+        <entry key="app/src/main/res/drawable/gradiant13.xml" value="0.101" />
+        <entry key="app/src/main/res/drawable/gradiant14.xml" value="0.101" />
+        <entry key="app/src/main/res/drawable/gradiant15.xml" value="0.101" />
+        <entry key="app/src/main/res/drawable/gradiant2.xml" value="0.101" />
+        <entry key="app/src/main/res/drawable/gradiant3.xml" value="0.101" />
+        <entry key="app/src/main/res/drawable/gradiant4.xml" value="0.101" />
+        <entry key="app/src/main/res/drawable/gradiant5.xml" value="0.101" />
+        <entry key="app/src/main/res/drawable/gradiant6.xml" value="0.101" />
+        <entry key="app/src/main/res/drawable/gradiant7.xml" value="0.101" />
+        <entry key="app/src/main/res/drawable/gradiant8.xml" value="0.101" />
+        <entry key="app/src/main/res/drawable/gradiant9.xml" value="0.101" />
         <entry key="app/src/main/res/drawable/rectangular_black.xml" value="0.101" />
         <entry key="app/src/main/res/drawable/rectangular_blue.xml" value="0.101" />
         <entry key="app/src/main/res/drawable/rectangular_blue_border_white.xml" value="0.101" />
+        <entry key="app/src/main/res/layout/activity_addcard_page.xml" value="0.165" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.10260416666666666" />
         <entry key="app/src/main/res/layout/dialog_toast.xml" value="0.10260416666666666" />
       </map>

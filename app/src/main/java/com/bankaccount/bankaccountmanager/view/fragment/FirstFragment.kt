@@ -1,5 +1,6 @@
 package com.bankaccount.bankaccountmanager.view.fragment
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
@@ -8,6 +9,7 @@ import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
 import com.bankaccount.bankaccountmanager.R
 import com.bankaccount.bankaccountmanager.databinding.FragmentFirstBinding
+import com.bankaccount.bankaccountmanager.view.activity.AddcardPage
 
 /**
  * A simple [Fragment] subclass as the default destination in the navigation.
@@ -34,7 +36,8 @@ class FirstFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         binding.buttonFirst.setOnClickListener {
-            findNavController().navigate(R.id.action_FirstFragment_to_SecondFragment)
+            //findNavController().navigate(R.id.action_FirstFragment_to_SecondFragment)
+            startActivity(Intent(context,AddcardPage::class.java))
         }
     }
 

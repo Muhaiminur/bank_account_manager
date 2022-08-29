@@ -19,4 +19,8 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="enter_account_number_string">Enter Account Number</string>
+    <string name="enter_account_name_string">Enter Account Name</string>
+    <string name="add_account_string">Add Account</string>
+    <string name="enter_available_balance_string">Enter Available Balance</string>
 </resources>
