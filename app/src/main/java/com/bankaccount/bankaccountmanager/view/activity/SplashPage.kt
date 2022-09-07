@@ -25,8 +25,8 @@ class SplashPage : AppCompatActivity() {
         try {
             context = this
             utility = Utility(context)
-            getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
-                WindowManager.LayoutParams.FLAG_FULLSCREEN);
+            window.setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
+                WindowManager.LayoutParams.FLAG_FULLSCREEN)
             hideSystemBars()
             object : CountDownTimer(5000, 1000) {
                 override fun onTick(l: Long) {}
@@ -35,7 +35,7 @@ class SplashPage : AppCompatActivity() {
                 }
             }.start()
         } catch (e: Exception) {
-            Log.d("Error Line Number", Log.getStackTraceString(e));
+            Log.d("Error Line Number", Log.getStackTraceString(e))
         }
 
     }
